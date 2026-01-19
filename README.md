@@ -15,7 +15,7 @@
 
 ## 📖 What Is This?
 
-This repository is a **complete, hands-on curriculum** for learning STM32 microcontroller programming at the **register level**. No HAL. No LL. No hand-holding. Just pure bare-metal C programming on the **Nucleo-H753ZI** board (ARM Cortex-M7, 480 MHz).
+This repository is a **complete, hands-on curriculum** for learning STM32 microcontroller programming at the **register level**. No HAL. No LL. Just pure bare-metal C programming on the **Nucleo-H753ZI** board (ARM Cortex-M7, 480 MHz).
 
 Each tutorial is an **interactive learning experience** with:
 - 📚 **Lessons** explaining how the hardware works
@@ -242,3 +242,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ for the embedded community by <b>Tommyl404</b>
 </p>
+
